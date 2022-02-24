@@ -1,0 +1,48 @@
+Last login: Tue Feb 22 16:34:37 on ttys001
+gildarivera@MBGTITOCF78 ~ % git config --global alias.co checkout
+gildarivera@MBGTITOCF78 ~ % cd desktop                                 
+gildarivera@MBGTITOCF78 desktop % cd git
+gildarivera@MBGTITOCF78 git % cd initial repo
+cd: string not in pwd: initial
+gildarivera@MBGTITOCF78 git % cd initialrepo 
+cd: no such file or directory: initialrepo
+gildarivera@MBGTITOCF78 git % ls
+dsu		initial repo
+gildarivera@MBGTITOCF78 git % cd initial repo
+cd: string not in pwd: initial
+gildarivera@MBGTITOCF78 git % cd initialrepo 
+gildarivera@MBGTITOCF78 initialrepo % nano file
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6                File: file                            Modified  
+
+First file  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        [ XOFF ignored, mumble mumble ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
